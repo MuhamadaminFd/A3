@@ -1,0 +1,122 @@
+.svg {
+    border-radius: 20px;
+    margin-right: 500px;
+    margin-left: 290px;
+    margin-top: 35px;
+}
+
+
+.btn {
+    border-radius: 5px;
+    background-color: #0095f0;
+    height: 33px;
+    width: 90px;
+
+}
+
+.bt {
+    border-radius: 5px;
+    background-color: #363636;
+    height: 33px;
+    width: 90px;
+}
+
+/*
+.button{
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+    
+}
+
+ */
+
+
+.button {
+    position: absolute;
+    top: 27px;
+    right: 300px;
+}
+
+.button .btn,
+.button .bt {
+    margin-right: 5px;
+}
+
+
+.username {
+    position: absolute;
+    top: 10px;
+    right: 575px;
+}
+
+.Options {
+    position: absolute;
+    top: 27px;
+    right: 260px;
+}
+
+
+.uplicat h3 {
+    margin: 10px;
+    right: 10px;
+
+}
+
+
+.uplicat {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    text-align: right;
+
+
+}
+
+.param {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    flex-direction: row;
+}
+
+.username,
+.uplicat,
+.button,
+.Options {
+    margin-left: auto;
+}
+
+
+.bio {
+    position: absolute;
+    top: 130px;
+    right: 640px;
+}
+
+.uplicat {
+    position: absolute;
+    top: 80px;
+    right: 295px;
+}
+
+
+
+.stik {
+    display: flex;
+    justify-content: center;
+}
+
+.stik>div {
+    margin: 0 30px;
+    margin-top: 65px;
+
+}
+
+.cam {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+    font-weight: 900;
+}
